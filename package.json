@@ -1,0 +1,44 @@
+{
+  "name": "hn300",
+  "private": true,
+  "version": "0.1.0",
+  "description": "候鸟300 二零二六报名资料整理与提交检查网站",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovstudio/hn300.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lovstudio/hn300/issues"
+  },
+  "homepage": "https://hn300.lovstudio.ai",
+  "type": "module",
+  "packageManager": "pnpm@10.33.3",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "typecheck": "tsc --noEmit --pretty false",
+    "build": "pnpm typecheck && vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.0",
+    "@types/react": "^19.2.15",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.2",
+    "lovinsp": "^1.7.0",
+    "tailwindcss": "^4.3.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.0.12"
+  },
+  "dependencies": {
+    "@radix-ui/react-slot": "^1.2.4",
+    "@tanstack/react-query": "^5.100.14",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "jszip": "^3.10.1",
+    "lucide-react": "^1.16.0",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "tailwind-merge": "^3.6.0"
+  }
+}

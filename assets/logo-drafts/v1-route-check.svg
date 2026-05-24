@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">候鸟300 报名助手图标</title>
+  <desc id="desc">一条迁徙航线穿过三张资料页，象征候鸟300报名资料整理。</desc>
+  <rect width="512" height="512" rx="104" fill="#F9F9F7"/>
+  <circle cx="382" cy="118" r="40" fill="#E8E6DC"/>
+  <path d="M122 151h175c13.3 0 24 10.7 24 24v218c0 13.3-10.7 24-24 24H122c-13.3 0-24-10.7-24-24V175c0-13.3 10.7-24 24-24Z" fill="#FFFFFF" stroke="#181818" stroke-width="12"/>
+  <path d="M154 219h111M154 272h94M154 325h132" stroke="#87867F" stroke-width="18" stroke-linecap="round"/>
+  <path d="M304 177h62c13.3 0 24 10.7 24 24v192c0 13.3-10.7 24-24 24H209" fill="none" stroke="#CC785C" stroke-width="12" stroke-linecap="round"/>
+  <path d="M315 111c-12 45-49 79-112 102-68 25-99 58-93 101 9 61 78 87 170 58 71-23 116-70 134-141" fill="none" stroke="#CC785C" stroke-width="20" stroke-linecap="round" stroke-dasharray="1 36"/>
+  <path d="M356 255l42 42 80-92" fill="none" stroke="#181818" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M316 111l52 9-33 42" fill="#CC785C"/>
+  <circle cx="94" cy="393" r="18" fill="#629A90"/>
+</svg>
